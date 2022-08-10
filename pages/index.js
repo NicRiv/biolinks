@@ -17,7 +17,7 @@ export default function Home() {
           <h1 className={styles.title}>Nicolas Rivera</h1>
           <p className={styles.username}>@NicRiv</p>
           <article className={styles.description}>
-            <p>I`&apos;`m a full stack developer; core skills:</p>
+            <p>I&apos;m a full stack developer; core skills:</p>
             <p>Laravel, MySQL, React, NextJs, Node, MongoDB.</p>
             <p><i>Check out my links</i></p>
             <p><small>I also develop in C++ and Python</small></p>
