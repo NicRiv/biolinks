@@ -48,9 +48,9 @@ export default function Home() {
               </a>
             </li>
             <li>
-              <a href='https://exercism.org/profiles/NicRiv' target="_blank" rel="noopener noreferrer">
-                <Image src='/icons/exercism.png' alt="Exercism Icon" width={20} height={20} />
-                <span>Exercism Profile</span>
+              <a href='https://www.hackerrank.com/nico_a_rivera3' target="_blank" rel="noopener noreferrer">
+                <Image src='/icons/hackerrank.png' alt="Hackerrank Icon" width={20} height={20} />
+                <span>Hackerrank Profile</span>
               </a>
             </li>
             <li>
